@@ -1,2 +1,2 @@
-# gmenuplayer
-A gmenu2x style multimedia player. 
+# simple-player
+A simple multimedia player. 
